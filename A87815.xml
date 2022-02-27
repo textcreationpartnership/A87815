@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Knights strange and amazeing prophecy, for three years to come: being, a genuine prepiction [sic] of the most considerable actions and accidents likely to happen in the year, 1699, 1700, and 1701 Fairly deduced from 5 visible eclipses of the luminaries: three great and formidable ones, and two more less more particularly of that great and wonderful eclipse of the sun, which will happen on the 13th day of the next approaching month September, w[h]en 11 digits of the sun's face will be quite darkned, and its effects, or significations more terrible, than that of Black Monday, in the year, 1652. Modestly hinting to all Europe, and every kingdom and state therein, the probable contingencies signified to them, by the signs of heaven. By William Knight, student in astrology, physick, and chirurgery.</title>
+            <author>Knight, William, fl. 1680-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87815</idno>
+            <idno type="STC">Wing K695A</idno>
+            <idno type="STC">ESTC R230367</idno>
+            <idno type="EEBO-CITATION">99896262</idno>
+            <idno type="PROQUEST">99896262</idno>
+            <idno type="VID">154020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Knights strange and amazeing prophecy, for three years to come: being, a genuine prepiction [sic] of the most considerable actions and accidents likely to happen in the year, 1699, 1700, and 1701 Fairly deduced from 5 visible eclipses of the luminaries: three great and formidable ones, and two more less more particularly of that great and wonderful eclipse of the sun, which will happen on the 13th day of the next approaching month September, w[h]en 11 digits of the sun's face will be quite darkned, and its effects, or significations more terrible, than that of Black Monday, in the year, 1652. Modestly hinting to all Europe, and every kingdom and state therein, the probable contingencies signified to them, by the signs of heaven. By William Knight, student in astrology, physick, and chirurgery.</title>
+                  <author>Knight, William, fl. 1680-1699.</author>
+               </titleStmt>
+               <extent>16 p. : ill  </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by John Harrison, in Cornhill, near the Roaly-Exchange I,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solar eclipses --  1699 --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Lunar eclipses --  1699 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154020:1"/>
+            <pb facs="tcp:154020:1"/>
+            <p>Mr. <hi>KNIGHTs</hi> Strange and Amazeing PROPHECY, For Three Years to Come: BEING, A Genuine Prediction of the moſt Conſiderable Actions and Accidents likely to happen in the Year, 1699 1700, and 1701. Fairly Deduced from 5 Viſible <hi>Eclipſes</hi> of the <hi>Luminaries: Three</hi> Great and Formidable ones, and <hi>Two</hi> more Leſs More particularly of that Great and Wonder<g ref="char:EOLhyphen"/>ful <hi>Eclipſe</hi> of the <hi>S<g ref="char:V">Ʋ</g>N,</hi> which will happen on the 13th Day of the next approaching Month <hi>September,</hi> w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en 11 Digits of the <hi>Sun</hi>'s Face will be quite Darkned, and its Effects, or Sig<g ref="char:EOLhyphen"/>nifications more terrible, than that of Black Monday, <hi>In the YEAR,</hi> 1652.</p>
+            <p>Modeſtly Hinting to all <hi>Europe,</hi> and every Kingdom and State therein, the probable Contingencies ſignified to them, by the Signs of Heaven.</p>
+            <p>By <hi>William Knight,</hi> Student in Aſtrology, Phyſick, and Chirurgery.</p>
+            <q>
+               <p>Certiſſimum eſt, Corpora Coeleſtia in hec Inferiora Agere non ſecus ac Sol &amp; Luna, quorum mirabiles effectus in Univerſa, quotidie Na<g ref="char:EOLhyphen"/>tura experimur.</p>
+               <bibl>
+                  <hi>Cauſinus.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>John Harriſon,</hi> in <hi>Cornhill,</hi> near the <hi>Roaly-Exchange</hi> 1 MDCXCIX.</p>
+            <p>Price, <hi>Two Pence.</hi>
+            </p>
+            <p>Licenced according to order</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154020:2"/>
+            <pb n="3" facs="tcp:154020:2"/>
+            <head>Mr. <hi>Knight,</hi> Strange and A<g ref="char:EOLhyphen"/>mazeing <hi>Propheſys,</hi> for three Years to come.</head>
+            <div type="part">
+               <figure>
+                  <head>The Monn Eclipſed <hi>March,</hi> 5. at 7 h. p. m. 1699. Digits Eclipſed 9. to<g ref="char:EOLhyphen"/>tal Duration 3 h. Therefore it's effects will be found conſiderable, and will hold it's Operations: Months, and more.</head>
+               </figure>
+               <p>
+                  <hi>ACcording to the Documents of the great Maſters in this Do<g ref="char:EOLhyphen"/>ctrine, we are to account the Planet chief Ruler of an E<g ref="char:EOLhyphen"/>clipſe, that hath moſt eſſential Dignities in the place of the Eclipſe, and Angel ſucceeding.</hi>
+               </p>
+               <p>
+                  <hi>This Eclipſe is in</hi> Virgo, <hi>wherein the Planet</hi> Mercury <hi>hath 5 Digni<g ref="char:EOLhyphen"/>ties, for it's being in his Houſe, 4 Dignities for Exaltation therein and 1 Dignity for being in his Face; which in all makes 10 Teſtimo<g ref="char:EOLunhyphen"/>nies for him.</hi>
+               </p>
+               <p>
+                  <pb n="4" facs="tcp:154020:3"/>
+                  <hi>The Angle ſucceeding this Eclipſe, is the aſcendent, wherein</hi> Venus <hi>hath 5 Dignities, for it's being in her Houſe, and</hi> Saturn <hi>hath 4 Dig<g ref="char:EOLhyphen"/>nities, for having Exaltation therein; and ſo we find by theſe Rules, thoſe 3 Planets concerned in the Government of this Eclipſe, accor<g ref="char:EOLhyphen"/>ding to whoſe ſeveral Significations, it's Effects will be But accor<g ref="char:EOLhyphen"/>ding to my Judgment, we muſt admit</hi> Jupiter <hi>for a Co-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>artner, he being exalted in the 10th, beholding both the Luminaries, and diſpo<g ref="char:EOLhyphen"/>ſeth of the</hi> Sun <hi>in</hi> Piſces.</p>
+               <p>From the Regnancy of <hi>Mercury,</hi> we may expect to hear of much Subtil<g ref="char:EOLhyphen"/>ty, and Craftineſs, among Men, many cunning and underhand Projects in the World buſy Sects and Schiſms, much Writing, Printing and Prating, for which many will ſuffer; becauſe <hi>Mercury</hi> is very weak, being in De<g ref="char:EOLhyphen"/>trement and Fall: Bad Trading, many Loſſes and Croſſes by Sea and Land, much windy and wet Weather.</p>
+               <p>From <hi>Venus</hi> we may hear of many great Marriages and Courtſhips; and ſo much the more, ſhe being in Sextile to <hi>Mars,</hi> Lord of the Seventh, it alſo ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnifies much ſuing for Peace, and good Correſpondence where there are appearances of Breaches.</p>
+               <p>From <hi>Saturn</hi> we may look for many cold bleak Storms and Tempeſts this Summer, dark and cloudy Guſts, many Agues and lingring Diſeaſes Want and Pe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y in ſeveral Places, by reaſon of Ingroſing and Fore-ſtalling Commodities.</p>
+               <p>From <hi>Jupiter</hi> we expect many Law ſuits and Religious Controverſies, ſtrong and ſturdy Debates among High and Low, great Thwartings, and Contradictions in Counſels<g ref="char:punc">▪</g> 'twill be well if all Places keep from Mutinies and Publick Breaches: many fierce Storms of Hail and Rain; alſo much Thunder and Lightning in many Places.</p>
+               <p>From the Poſition of <hi>Mars</hi> in the Eclipſe, we expect much Drought, vio<g ref="char:EOLunhyphen"/>lent Heat, great Fires and Fevers, furirus Routs, Tumults, and Commotions.</p>
+               <p>But we may well hope from the Sextile of <hi>Mars</hi> and <hi>Venus,</hi> and alſo the ſtrong Sextile of <hi>Saturn</hi> and <hi>Jupiter;</hi> that whatſoever Miſchiefs may be Hatch'd, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omented or Deſign'd to amuſe, amaze, and Diſturb the Repoſe and Quiet of Europe in General, or any particular Kingdom, State, or Repub<g ref="char:EOLhyphen"/>lick therein, they will be counter-mined and counter-manded by the ſage and ſolid Advice Care and Caſtigation, of the more Honeſt and Faithful Pat<g ref="char:EOLhyphen"/>rons and Patrons of their Countrey they Live in, and in which they have good Propriety, and honourable Settlement, well minding, that a change will be for the worſe, and not for the better; (as ſome vainly imagine) for when <hi>Saturn</hi> and <hi>Jupiter</hi> change their Signs, they both get on the worſe ſide of the Hedge.</p>
+               <p>This Eclipſe began in the Aſcendant, the Moon roſe decreaſing in her Light, ſhe received her greateſt Obſcuration in the <hi>12th.</hi> Houſe and recovers her Light in the <hi>11th.</hi> Houſe: Thus much then may be inferr'd from the Premiſes, that it's effects will begin with diſtrubing the Bodies and Miads of the common People, go on unto Arreſts and Impriſonments, ſecret Plots and Projects againſt Princes and Principal Men; for the Moon is Lady of
+<pb n="5" facs="tcp:154020:3"/>
+the <hi>10th</hi> Houſe; much Sorrow and Trouble to great Ladies, great Contri<g ref="char:EOLhyphen"/>vances againſt true Religion and it's Profeſſors; but it ſtands firm maugre the Malice of Men and Devils, and Juſtice notably Retaliates upon great and ſmall their juſt Demerits; let all Plotters therefore be quiet.</p>
+               <p>As this Eclipſe is in an Earthy Sign it ſignifies Earth-quakes. Barren<g ref="char:EOLhyphen"/>neſs of the Earth, and Breaches in ſuch Banks and Mud-walls as are made to keep out Water.</p>
+               <p>As it is in a Humane Sign, it threatens damage to Men.</p>
+               <p>As it is in a Winged Sign, it denotes 4 Deſtruction of Birds, and eſpe<g ref="char:EOLhyphen"/>cially Tame Fowl, and ſuch as Men feed on.</p>
+               <p>As it is in the <hi>12th</hi> Houſe, it ſignifies damage to the greater ſort of Cattle.</p>
+               <p>As it is near the Eaſt, it ſignifies hurt to Youth, and youthful things.</p>
+               <p>And Authors ſay. That an Eclipſe of the Moon Veſpertine, doth much augment it's effects; which I believe, will prove true.</p>
+               <p>As for the Countries moſt ſubject to the influence of an Eclipſe, it will be whereſoever the Eclipſe is Viſible; and alſo to thoſe Countries, Cities, and Towns, under the Sign wherein the Eclipſe is; and to thoſe places un<g ref="char:EOLhyphen"/>der the Eclipſe's Circle of Poſition.</p>
+               <p>According to the mind of the Ancients, this Eclipſe ſhould not begin to manifeſt it's influence, until about three Months from the time of the E<g ref="char:EOLhyphen"/>clipſe, which will bring us to the <hi>5th</hi> day of <hi>June;</hi> from whence, if we account three Months for the Duration of it's effects, we ſhall find that <hi>June, July,</hi> and <hi>Auguſt,</hi> are the Months allotted for the manifeſtation of of it's Influence: Therefore, from a ſickly and troubleſome Summer, <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>But moſt modern Artiſts that I have Converſt with by Sea or Land do believe, that Eclipſes do operate from the very time of the Eclipſe; and, that if an Eclipſe be in a moveable Sign, it's Influence does then hold out but ſo many Months for the Moon, and ſo many Tears for the Sun, as they are eclipſed Hours; but in a fixed Sign ſo many <hi>2</hi> Months, or ſo many <hi>2</hi> Years; and in a common Sign ſo many ſix Weeks, or Yerrs and half.</p>
+            </div>
+            <div type="part">
+               <figure>
+                  <head>The Sun Eclipſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>September</hi> 13 at 9 h. 30 m. Mane. 1609. Digits Eclipſed, 11 total luration 2 h. 30 m. Ergo, it's effects will be very conſiderable, &amp; hol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> operation<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> years &amp; ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </head>
+               </figure>
+               <p>
+                  <hi>In the Lunar Eclipſe, the Angles were all moveable; but in this they are all fixed: So that as that ſignified much Celerity, Haſte, and Expedition, this imports much Tediouſneſs and Tergiverſation; but as this Eclipſe is in a moveable Sign, it will ſtimulate many ſud<g ref="char:EOLunhyphen"/>den and haſty Evils; and as the other ſignified unſteddy and uncer<g ref="char:EOLunhyphen"/>tain Concluſions, this implies much Conſtancy and firm Reſolution either to good or Evil.</hi>
+               </p>
+               <p>
+                  <hi>We here find</hi> Mars <hi>and</hi> Saturn <hi>Governours of this Eclipſe, and a good Goverment it alwtys proves when two ſuch prime Steers rule the Roaſt, but the beſt on't is, they can't agree about the Buſineſs.</hi>
+               </p>
+               <p>Mars <hi>is ſole Ruler of the Angle ſucceeding the Eclipſe; he having 5 Dignities for it's being his Houſe, 3 for having his Triplicity there<g ref="char:EOLhyphen"/>in, and 1 for his Face, whlch in all makes 9 Teſtimonies.</hi>
+               </p>
+               <p>
+                  <hi>In the Sign wherein the Eclipſe is,</hi> Saturn <hi>hath 4 Dignities for hav<g ref="char:EOLhyphen"/>ing his Exaltation, 3 for his Triplicity, and 2 for his Term, which in all makes 9 Teſtimonies; alſo for his ſhare in the matter.</hi>
+               </p>
+               <p>From <hi>Mars</hi> we expect much Drouth, Thunder, and Lightning, Fiers, and Fevers, Fiery and thundering Paſſions in the minds of Men, inteſtine Broils, and Diſcords, the Wrath and Fury of Kings and Princes, ſudden Deaths, and Dangers, many Violations, and Combuſtions, many Impieties and Impurities in uſe among Men.</p>
+               <p>
+                  <pb n="7" facs="tcp:154020:4"/>From <hi>Saturn</hi> we look for much cold Weather, many Frights, and Fears, Fewds, and Annimoſities, long laſting Diſeaſes, Exiles, and Deaths, Scarcity, and Want, dark Air, and dark Actions, much Sorrow, and Sadneſs, cruel Servitude, and Poverty, grievous Tempeſts, and Ship-wracks, damage to Springs, and Fountains, many mournful aad ſad Calamities.</p>
+               <p>During the whole time of the Eclipſe, <hi>Mars</hi> boldly abides in the <hi>10th</hi> and <hi>9th</hi> Houſes; and <hi>Saturn</hi> lurks in the <hi>4th</hi> and <hi>3d</hi> Houſes. Govern<g ref="char:EOLhyphen"/>ments will find their foreign and domeſtick Enemies Active; and Religi<g ref="char:EOLhyphen"/>on will find it's foreign and domeſtick Enemies very Vigilant too.</p>
+               <p>This direful and ireful Oppoſition of the two malevolent Planets, imports many diſmal and furious Actions, and Accidents, ſtrong Surmiſes, and great Surprizes, great Routs, and Rumors, violent and treacherous Coun<g ref="char:EOLhyphen"/>ſels, and Conſults, deep and dangerous Conſpiracies againſt Governours and Governments, inſolent Inſults, and Inſurrections, a great Propenſity to the breach of Articles, and Leagues of Friendſhip, great Plots, and Counter-Plots, mighty Fatiegues, and Harraſings, very audatious and fatal Commo<g ref="char:EOLhyphen"/>tions, foul and turbulent Weather.</p>
+               <p>But bleſſed be GOD, there is much Honey to be mixed with the Gall; for we have honeſt <hi>Jove</hi> caſting his Powerful Trine to <hi>Mars,</hi> and his Sextile to <hi>Saturn;</hi> good and able Men will be doing their utmoſt to moderate all Differences, and compoſe Diſorders, not denying the uſe of their Counſels, Perſons, and Purſes for ſuch good Purpoſes; many therefore, will be the Treats as well as Threats among Princes, and Perſons of the Superior Or<g ref="char:EOLhyphen"/>der, much Buſineſs, and Buſtles.</p>
+               <p>Much buſineſs I ſay, there will be among both good and bad Men: Bad Men will be mighty active in diſturbing the peace and quiet of thoſe Coun<g ref="char:EOLhyphen"/>tries they live in, and troubling the Government they live under, and that with mighty hopes of ſucceſs: But alas, Clubs and Cabals made by an Op<g ref="char:EOLhyphen"/>poſition, rarely prove ſucceſsful; for they are always fearful of each other; and when the matter comes to a pinch, happy is he that can firſt betray the reſt, and ſave himſelf. Indeed Oppoſitions are good Aſpects for fair Fight<g ref="char:EOLhyphen"/>ing, but ſtark nought for foul Plotting. Good Men will alſo be vigilant in foreſeeing thoſe evils, and Fiſhing out thei diſmal effects.</p>
+               <p>From the Poſition of <hi>Mars</hi> in the <hi>10th</hi> in <hi>Leo,</hi> and near <hi>co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Leonis,</hi> we may expect to hear of many great Spirits rampant, Grandees vexed with imperious Subjects, and many ſuch poor Subjects, as much perplexed with the ſeverity of their Princes; grievous complaints of Hoſtilities, Impoſitions, and hard Uſage; much Thunder in the Air, alſo very bold and thundering expreſſions among Men.</p>
+               <p>From the Poſition of <hi>Saturn</hi> in the <hi>4th</hi> in <hi>Aquary,</hi> we may look for deep and dark Contrivances againſt Governours, ſtrong and ſturdy means uſed to undermine Governments, the ruine and downfal of Buildings, Earth<g ref="char:EOLhyphen"/>quakes and cold Blaſts, doing much miſchief to Corn in the Ground when there are great porſpects of a good Crop; much damage to Springs, Foun<g ref="char:EOLhyphen"/>tains, asd Water-courſes, Conduits and Decoys.</p>
+               <p>New for my threefold Repitition of the ſignification of <hi>Saturn</hi> and <hi>Mars</hi>
+                  <pb n="8" facs="tcp:154020:5"/>
+in this ſolar Eclipſe, I do not hold my ſelf guilty of any needleſs Totoligy; for they are neceſſarily ſo to be conſidered; firſt as they are the Ruler of the Eclipſe, ſecondly as they are in Oppoſition and thirdly as we are to mind the Signs and Houſes they are in, according to all which, they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much Malice, and mutual Hatred among Men in ſuch Families where there are different perſwaſions, and different Relations, there will be more than uſual ſtrife, and debate; ſo likewiſe in ſuch Kingdom <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and Republicks where there are different Religions, or People of different Inte<g ref="char:EOLhyphen"/>reſts and Cuſtoms there will be ſturdy ſtruglings and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> among them; many furious and malicious debates.</p>
+               <p>
+                  <hi>Venus</hi> Lady of the Sign wherein the Eclipſe is being <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all, and in ſquare to <hi>Jupiter,</hi> denotes ſome difference and diſcord among the more religious and civiliz'd ſort of People, and that too many will be more intent upon trivial diſcents, than in minding the Intreagues and Machinations of the common Enemy of them all.</p>
+               <p>
+                  <hi>Mercury</hi> in the <hi>12th</hi> Houſe Peregrine and Retrograde, ſignifies <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Impriſonment to many forward and over nimble witted Scribes, Clarks, and Accountants, and uſers of falſe Weights and Meaſures.</p>
+               <p>The Luminary Eclipſed, is Lord of the <hi>10th</hi> Houſe; and therefore is a doeble Significator of Grandees, among whom there will be many and fact Diſorders and Diſaſters, both to their Perſons and Authorities.</p>
+               <p>As the Eclipſe is in an Airy Sign it ſignifies vehement Winds, a Sea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> city of Proviſion, and Apparitions in the Air.</p>
+               <p>As it is in the Sign <hi>Libra,</hi> it imports a declertion of Juſtice, ſmall Piety and little Piety, and it being Matutine, it's effects is much Aug<g ref="char:EOLhyphen"/>mented; ſo being in an equinoctial Sign, it's Influence will be Univerſal; it troubles the Church, and ſpoils Seeds and Herbs.</p>
+               <p>
+                  <hi>As it is in a Humane Sign, it implies much trouble among Men.</hi>
+               </p>
+               <p>
+                  <hi>As it is in the Aſtriſm of the Virgin, it ſignifies a barrenneſs of the Earth, and barrenneſs among Women, many Miſcarriages, and abor<g ref="char:EOLhyphen"/>tive Births.</hi>
+               </p>
+               <p>
+                  <hi>Becauſe this Eclipſe begins in the</hi> 12th <hi>Houſe of Heaven, receives it's greateſt obſcurity in the</hi> 11th, <hi>and ends in the</hi> 10th: <hi>Hence fol<g ref="char:EOLhyphen"/>lows Conſpiracies, a great decay of Friendſhip, and troubles in moſt States and Governments.</hi>
+               </p>
+               <p>
+                  <hi>From the great Strength and good Aſpect of</hi> Jupiter <hi>in this Eclipſe, I do heartily believe alſo, that there will be many good</hi> Moſeſes <hi>to ſtand in the Gap, and good</hi> Abrams <hi>to plead with God for averting the groſs of thoſe evils.</hi>
+               </p>
+               <p>
+                  <hi>I know well enough, that there are great differences among the Aſtrologers of different Religions in applying the difference and Sig<g ref="char:EOLhyphen"/>nification of</hi> Jupiter: <hi>Proteſtant Religion; Popiſh Aſtrologers make him to ſignify their Religion, and Pagans will have him to patronize their Devorcem; there Reaſons all are the ſame, becauſe every one of them accounts their Religion the beſt; they will therefore have the beſt Planet for it's Significator.</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:154020:5"/>
+                  <hi>But undoubtedly, that is the beſt Religion that worſhips the one only living and true GOD after the beſt manner; which muſt needs be that which moſt nearly agrees to his own Inſtitution, and med<g ref="char:EOLhyphen"/>dles leaſt with the Precepts of Men; for GOD, who requires Men to worſhip hem, though fit to preſcribe him a Rule for his Direction, and leaſt that Rule ſhould be forgotten or corrupted, he command<g ref="char:EOLhyphen"/>ed it to be written in a Book, which Book can be no other than that which contains the Old and New Teſtament, and is called the Bible. That Religion then that moſt ſtrictly obliges Men to keep cloſe to the dictates of this Book, is truly accounted the beſt Re<g ref="char:EOLhyphen"/>ligion.</hi>
+               </p>
+               <p>
+                  <hi>But foraſmuch as</hi> Jupiter <hi>is the general Significator of all Religion and Laws, he therefore ſignifies that Religion which is uppermoſt in any Kingdom or State, and which is eſtabliſhed by Authority, and the Laws of that Nation, whether it be Proteſtant, Papiſt, or Pagan; ſo</hi> Saturn, Mars, <hi>and</hi> Mercury, <hi>are the common diſturbers of Religi<g ref="char:EOLhyphen"/>on, and the conſtant troublers of States.</hi>
+               </p>
+               <p>November <hi>the 7th, there is a Conjunction of the</hi> Sun, Venus <hi>and</hi> Mercury <hi>all in ſquare to</hi> Saturn, <hi>and alſo in ſquare to the places of</hi> Saturn <hi>and</hi> Mars <hi>in this ſolar Eclipſe; this will put the Eclipſe upon Action, and ſet the oppoſition of</hi> Mars <hi>and</hi> Saturn <hi>at work too: Some notable buſineſs now on Foot, wherein a Woman or Women are much concerned, great Counſels and Conſults how to Confront the riged Impulſes of a ſturdy old Senior; much buſtle and baſeneſs, foul and turbulent Weather.</hi>
+               </p>
+               <p>
+                  <hi>About the 11th or 12th of</hi> November <hi>there is a quartile of</hi> Jove <hi>and</hi> Mars, Mars <hi>being then on the very place of the Eclipſe, and</hi> Jove <hi>in ſquare to it; diſputes ariſe about civil and military Matters, Rights and Priviledges warmly debated in ſome Places, the Religi<g ref="char:EOLhyphen"/>ous are like to be moleſted, many Duels, Law-ſuits, and pecunary Controverſies, Fevers, and Pluriſies: But the</hi> Sun, Venus, Mercury, <hi>all in Conjunction, and in Sextile to</hi> Mars, <hi>will by great Good and wiſe Counſel, mightily moderate thoſe matters.</hi>
+               </p>
+               <p>December <hi>the 11th, the</hi> Sun <hi>beholds the place of his Eclipſe by a ſquare, which ſignifies ſome ſmall diſguſts among Perſons of Quality, and ſome Bickering between Rulers and their People; but the</hi> Sun <hi>ſoon lighting with the Conjunction of</hi> Jupiter, <hi>ſets all to rights a<g ref="char:EOLhyphen"/>gain after a little Conſultation and Bluſtering.</hi>
+               </p>
+               <p>January <hi>the 15th 1700, there is a ſquare of the</hi> Sun <hi>and</hi> Mars, <hi>and tho' they behold not the place of the Eclipſe, it will be worth Obſervation, by reaſon</hi> Mars <hi>is Lord of the Aſſendant, and the</hi> Sun <hi>Lord of the 10th in the Eclipſe;</hi> Mars <hi>being now near cuſp of the Aſcendent in his own Houſe, and the</hi> Sun <hi>in his detrement, Some Grandees meet with notable buſineſs and buſtle about this time from their own Subjects and Servants.</hi>
+               </p>
+               <p>
+                  <hi>The 12th of</hi> February, <hi>there is a Conjunction of the</hi> Sun <hi>and</hi> Sa<g ref="char:EOLhyphen"/>turn
+<pb n="10" facs="tcp:154020:6"/>
+                  <hi>in</hi> Piſces, <hi>the</hi> Sun <hi>Lord of the 10th in the Eclipſe, and</hi> Saturn <hi>Lord of the 3d and 4th. Sickneſs and moleſtation to Grandees ſuc<g ref="char:EOLhyphen"/>ceeds, many die with Agues, Dropſies, and Conſumptions; much Snow or Rain, dark wet and ſlabby Weather.</hi>
+               </p>
+               <p>March <hi>the 9th, the</hi> Sun <hi>comes to the oppoſite place of the Eclipſe, and the New-Moon happens near the ſame time, which will make the Ingreſs very ſignificant: It will be a time of much Conſultation, Congratulation, and Condoleance too in ſome places; to which purpoſe, there will arrive many Agents and Ambaſſadors in the Courts of Princes; for there is alſo a Conjunction of the</hi> Sun <hi>and</hi> Mercury <hi>ſoon after the Ingreſs, beſides the Trine of</hi> Mars <hi>and</hi> Mer<g ref="char:EOLhyphen"/>cury, <hi>and the Sextile of</hi> Jupiter <hi>and</hi> Mercury. March <hi>the 30th, there is an Oppoſition of</hi> Mars <hi>and</hi> Venus, <hi>from the Signs on the Aſcend<g ref="char:EOLhyphen"/>ant and 7th Houſes in the Eclipſe; and both Planets beholding the places of</hi> Saturn <hi>and</hi> Mars <hi>in the Eclipſe with a ſquare: This Im<g ref="char:EOLhyphen"/>ports much noiſe and buſtle in ſeveral Places, as</hi> Poland, Loraine, Swizerland, <hi>and</hi> Ireland; <hi>cold and bluſtering Weather.</hi>
+               </p>
+               <p>April <hi>the 12th, there is alſo an Oppoſition of</hi> Mars <hi>and</hi> Mercury <hi>in the like manner, which will import much News of much Knave<g ref="char:EOLhyphen"/>ry acted both by Sea and Land. The Merchants ſuffers greatly by Storms and Pirates; the Roads are now more than ordinary infeſted with Padders, and the Town with Shop-lifters, and ſuch like Crea<g ref="char:EOLhyphen"/>tures.</hi> April <hi>the 27th, we have an Oppoſition of the</hi> Sun <hi>and</hi> Mars <hi>from the ſame Signs,</hi> i. e. Taurus <hi>and</hi> Scorpio. <hi>More noble Game<g ref="char:EOLhyphen"/>ſters now mount the Stage, and more notable Exploits are Play'd; but there is no nobleneſs in the uſe of Punniards or Poyſon, nor is it a noble Death to come to the Ax or Halter about it; nor does every one that falls in a Duel die in the Bed of Honour. We ex<g ref="char:EOLhyphen"/>pect much Thunder and Lightning,</hi>
+               </p>
+               <p>
+                  <hi>In</hi> Mars <hi>there is no material bad aſpect that has any regard to the Eclipſe: Therefore, we are only to expect thoſe evil Influences we have mentioned, to be manifeſted in this Month. Mighty en<g ref="char:EOLhyphen"/>deavours will be alſo uſed herein to moderate Diſorders, and bring things into a better poſture.</hi>
+               </p>
+               <p>June <hi>the 10th, the</hi> Sun <hi>comes to the ſquare of the Eclipſe, and near the ſame time there is a ſquare of</hi> Saturn <hi>and</hi> Mercury; <hi>ſome diſlikes ariſe among high and low; the Ears of Merchants grated with bad News; ſome cold guſts of Wind and Rain; and yet the Month affords much good Intelligence too.</hi>
+               </p>
+               <p>July <hi>affords us 4 Oppoſition to be conſidered, though neither of them much affects the Eclipſe. The Oppoſition of</hi> Jupiter <hi>and</hi> Mer<g ref="char:EOLunhyphen"/>cury <hi>ſignifies Law-ſuits, Religious Diſputes, ſcribling Controverſies and haſty Showers. The Oppoſition of the</hi> Sun <hi>and</hi> Jupiter <hi>ſignifie, diſcord among Princes and Prelates, Grandees and their Truſtees;s Eighty proings and connings in Counſel; high Words, high Winds, and fierce Showers. Oppoſition of</hi> Saturn <hi>and</hi> Venus, <hi>ſignifies much
+<pb n="11" facs="tcp:154020:6"/>
+detrement to Women, and Fruits; cool and wet Weather The Op<g ref="char:EOLhyphen"/>poſition of</hi> Saturn <hi>and</hi> Mercury, <hi>ſignifies many ſly and deceitful tricks among Men, malicious and ſuttle Projects, Lies and Libels, Fears and Jealouſies, Colds and Gripes, Storms and Ship wracks.</hi>
+               </p>
+               <p>Auguſt <hi>the 7th, the</hi> Sun <hi>tranſites the place of</hi> Mars <hi>in the Eclipſe, and the 9th day he paſſeth by the Oppoſition of</hi> Saturn <hi>therein too, and ſoon after lights with the actual ſquare of</hi> Mars, <hi>and Op<g ref="char:EOLhyphen"/>poſition of</hi> Saturn; <hi>and before the Month ends, there will be a ſquare of</hi> Saturn <hi>and</hi> Mars: <hi>great Calamities are hereby ſignified both to great Perſons and great Places; fiery meatures in the Air, and fiery Paſſions in Men; great Fires and Fevers are much to be feared; many Deaths and Dangers inſident to many about this time; much Cruelty and hard Uſage both by Sea and Land; violent Plots and Projects; in ſome Places the Harveſt ſuffers by bad Weather.</hi>
+               </p>
+               <p>September <hi>the 12th, the</hi> Sun <hi>returns to the very place of his Eclipſe; after which, the virtue of the Eclipſe will dwindle; but other bad Influences are ſtill in Operation.</hi>
+               </p>
+               <p>October <hi>the 30th, there is a Conjunction of</hi> Jupiter <hi>and</hi> Mars <hi>in 26 degrees of</hi> Capricorn, <hi>which uſually operates upon Religion and Law, many times violent Preaching, and violent Practice; military Impoſitions, and military Executions; much boldneſs and bluſter<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+               <p>November <hi>the 6th, the</hi> Sun <hi>comes to the ſquate of</hi> Mars <hi>in the E<g ref="char:EOLhyphen"/>clipſe, and the 8th, to thk ſquare of</hi> Saturn <hi>therein; this will ſtir up a troubleſome Ferment among Grandees, much Spleen and An<g ref="char:EOLhyphen"/>nimoſity among them, vexatious Counſels and Conſults.</hi>
+               </p>
+               <p>December <hi>the 28th, there is a Conjunction of</hi> Saturn <hi>and</hi> Mars <hi>in 10 degrees of</hi> Piſces; <hi>much holy Hipocriſy is thereby ſignified; ma<g ref="char:EOLhyphen"/>ny angry Pulpit Peals, Sciſm and Sedition zealouſly urged; Law debates, and Pecunary Troubles; great Ship-wracks, and many Men drowned; great Rains, or much Snow; Floods, and overſwelling of Riverss</hi>
+               </p>
+               <p>
+                  <hi>It is vvorth Obſervation, that the Planets</hi> Mars <hi>has been no leſs than 7 Months this Year in</hi> Scorpio; <hi>during vvhich time, he vari<g ref="char:EOLhyphen"/>ouſly Diſputes all the reſt of the Planets; many and great Marſhal Conſultations are thereby ſignified, and much military Povver im<g ref="char:EOLhyphen"/>poſed upon ſeveral Places under</hi> Scorpio, <hi>and it's oppoſite Sign, be<g ref="char:EOLhyphen"/>ſides other Places. All ſorts of Chriſtians that are at War vvith the Governments of</hi> Algler, Tunis, <hi>or</hi> Tripoli, <hi>vvill be too often Kid<g ref="char:EOLhyphen"/>nab'd by thoſe Rovers.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <figure>
+                  <head>Luna Eclipſed <hi>Febuary,</hi> 23 at 5 h. 20 m. Mane. 1700. Digits Eclipſed, 11 total duration 3 h. 30 m. Therefore it's effects will be conſiderable &amp; hold in force near 4 Months.</head>
+               </figure>
+               <p>
+                  <hi>Obſerving no formidable Configurations a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ending this</hi> Eclipſe, <hi>I was once in the mind not to concern my ſelf with it: But having conſidered the Time, and erected the Figure (you here ſee) for the ſame, I found the Poſition ſo remarkable, that I reſolved not to o<g ref="char:EOLhyphen"/>mit its Interpretation according to the beſt of my mean Skill, which with as much freeneſs of Mind as I dare uſe, my Reader ſhall have in the Sequel.</hi>
+               </p>
+               <p>
+                  <hi>Had</hi> Aſtrologers <hi>the liberty to write what they may well deduce from the Stars, a mean Artiſt might eaſily ſhame the moſt obſtinate Antagoniſt out of his ill Humour againſt Aſtrology; but our Pens are Padlock'd, and we dare not force their Freedom.</hi>
+               </p>
+               <p>
+                  <hi>The Rulers of this</hi> Eclipſe <hi>are</hi> Jupiter <hi>and</hi> Mercury, <hi>the latter being Lord of the Sign where the</hi> Eclipſe <hi>is, and the former ſole Governour of the Angles ſucceeding: 'Tis well when Religion and Law guides the Helm of Government, provided they are in a Capacity to hold it; we find both thoſe Planets in a pale and ſickly Condition;</hi> Jupiter <hi>in the 12th Houſe in his Fall, and</hi> Mercury <hi>between the Square of</hi> Mars, <hi>and Conjunction of</hi> Saturn, <hi>alſo haſtening into his Fall: Hence comes much Sorrow and Perplexity to many that wear the Long Robe, from
+<pb n="13" facs="tcp:154020:7"/>
+the Higheſt to the Loweſt Degrees among them; behold</hi> Mars <hi>in the 9th Houſe,</hi> Saturn <hi>in the Aſcendent, and the</hi> Eclipſe <hi>in the 7th.</hi>
+               </p>
+               <p>
+                  <hi>All</hi> Eclipſes <hi>of the Moon moves Tumtlts and Commotions: but moſt of all when in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th Houſe, then Wars and Rumours of Wars, Ri<g ref="char:EOLhyphen"/>ots Routs, and Re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſions are much to be feared; I mean, a cautio<g ref="char:EOLunhyphen"/>nary Fear, not in L<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſilanimity.</hi>
+               </p>
+               <p>
+                  <hi>The</hi> Moon <hi>is</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>the 6th Houſe; Servants and Subjects will be apt to riſe up and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tend with their Maſttrs and Rulers, joining force with their Enemies againſt them, though they ſuffer ſeverely for it.</hi>
+               </p>
+               <p>
+                  <hi>I am ſorry to ſee</hi> Jove <hi>ſo weak and helpleſs, he lately ſlighted</hi> Mars, <hi>and now</hi> Mars <hi>will as much ſlight him; but the</hi> Sun <hi>makes haſt to his Aſſiſtance, and to perſwade</hi> Mars <hi>into a better Humour, that more <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may be taken to ſupport a feeble Authority, ſo made by their own Remiſneſs.</hi>
+               </p>
+               <p>Saturn <hi>and the</hi> Dragon<hi>'s</hi> Tail <hi>in the Aſcendent, ſignifies much Sorrow and Diſcontent to the People in ſeveral Countries and Places; much murmuring and muttering at their Superiors, great and grievous Com<g ref="char:EOLunhyphen"/>plaints of Poverty and hard Uſage; a Sickly Seaſon is much to be fear<g ref="char:EOLhyphen"/>ed, and many</hi> Diſmal Accidents; Cold and Dark Air, Fewds and Fears many ſuffer by Hunger and Cold; great Ship-wracks, Floods, and Inundati<g ref="char:EOLunhyphen"/>ons, doing abundance of harm.</p>
+               <p>
+                  <hi>Mars</hi> in the 9th Houſe, and in a watery Sign and ſtrong, ſignifies grea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Preparations for Sea-force, and Sea-Actions; many ſtout Men of War at Sea on all ſides, to watch the motions and Deſigns of each other. The <hi>Moon</hi> applies to the Sextile of <hi>Mars,</hi> and the Trine of <hi>Jupiter;</hi> many long and dan<g ref="char:EOLhyphen"/>gerous Voiages made in expectation of great Advantages; but if it prove not o<g ref="char:EOLhyphen"/>therwiſe, it will be well; for the Sea looks grim and angry in this Face of Heaven.</p>
+               <p>
+                  <hi>Maximae Eclipſis &amp; maximae Operantus:</hi> The greater the Eclipſe is, the greater are it's Effects; this is a great Eclips, and therefore it will be of as great Signification. <hi>Significantit Eclipſis decreta ſunt ejus quae proprius cardines:</hi> Thoſe Eclipſes which are Viſible had near unto an Angle <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o moſt powerfully manifeſt their Influence. This is in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Houſe, and therefore will ſtrongly ſtir up Wars, Contentions, Strife, and Debates among Men. <hi>Maxime illuſtres effectus ſunt Solis &amp; Luna:</hi> Great and Famous are the Effects ſignified by the <hi>Sun</hi> and <hi>Moon;</hi> therefore, great and famous are the ſignifications of their great Eclipſes.</p>
+               <p>The greatneſs of all thoſe three Eclipſes we have here treated on, and the great and ſtupendions Effects likely to ſucceed them, will make abundance of Admiration in the World.</p>
+               <p>
+                  <hi>Ex Eclipſibus magni proveniunt:</hi> From Eclipſes great Effects always ſucceed. <hi>Eclipſis Luminarium ſupper reivitates. Provincias &amp; Regna magis quam ſuper privatae conditionis homines antetiam ſuper Reges reſpiciunt enim multitudinem:</hi> Eclipſes pour down their Influences upon Men of mean Condition, or upon Kings themſelves; for they principally re<g ref="char:EOLunhyphen"/>ſpect the multitude.</p>
+               <p>
+                  <pb n="14" facs="tcp:154020:8"/>But we are not from hence to conclude, Princes too great, or Peaſants too little for the cognizance of Eclipſes; for ſince the <hi>Sun</hi> ſignifies the Nobility, and the <hi>Moon</hi> the Mobily; Eclipſes of the <hi>Sun</hi> ſurely affects the one, and E<g ref="char:EOLhyphen"/>clipſes of the <hi>Moon</hi> the other accordinly; for as we may compare the Nobility to one Body, and the Commonality to another, ſo <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch Prince we account a Member of the one Body, and each Peaſant a Me— of the other; and we ſay, that Eclipſes do not only concern thoſe Bod<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eral; but alſo more ſpecially mind ſuch particular Members whoſe rad<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>minaries are touched by the Eclipſe.</p>
+               <p>I know two or three Grandees in the World menaced by theſe Eclipſes; but <hi>Potlomy's Nemo Perticularia Predicit</hi> ſhall be my Rule in that matter; for though I know a Man may prodict many Particulars; I do alſo believe he ought not at all times no do it.</p>
+               <p>But this let me mind my Reader, that theſe three Eclipſes much concerns Governours and Governments, as he may ſee by the Schemes themſelves; for in the firſt Lunar Eclipſe the <hi>Moon</hi> is Lady of the 10th, and beſides her E<g ref="char:EOLhyphen"/>clipſe, ſhe is otherways much afflicted: So in the Solar Eclipſe the <hi>Sun</hi> is Lord of the 10th, and the 10th Houſe much afflicted; and here <hi>Jupiter</hi> Lord of the 10th is much debilitated.</p>
+               <p>This Eclipſe falling in the Weſt Angle, we muſt allow it <hi>9</hi> Months repe of before it ſtarts up into Action, and that will bring us to the 23d day of <hi>November;</hi> unto which, if we add <hi>3</hi> Months and a half for the duration of it's Influence, we ſhall find <hi>December 1700 January, Feburary,</hi> and part of <hi>March 1791,</hi> are aſſign'd for the manifeſtation of it's Effects; but that an Eclipſe ſhould be in one Winter, and not operate untile the next, our modern Artiſts do ſcarcely believe; but we hereing adhere to the dictates of the Antients, though we do alſo believe what we know to be true, that no E<g ref="char:EOLhyphen"/>clipſe is guilty of Idleneſs in the mean while; ſo that an Eclipſe of the <hi>Moon</hi> falling in the 7th Houſe, it will be a compleat Year in Operation, eſpecially when great: but will moſt vigorouſly manifeſt it's Effects in the latter past of time aſſign'd.</p>
+               <p>From the long tranſite of <hi>Mercury</hi> in the Earthy triplicity much News may arrive from the Southern parts of the World; many Southeon winds, Chappings and Trembling, of the Eath, a Scarcity of Proviſion and deterement to young Cattel: many haſty ſhowers of Hail and ſudden Froſts.</p>
+               <p>
+                  <hi>February</hi> the 11th. <hi>1701,</hi> there is an Eclipſe of the <hi>Moon</hi> in the Firſt decanate of <hi>Virgo,</hi> which ſignifies redition and diſcord, ſterility and Cold Weather, an aptneſs to Tumults and Commotions, The latter part of the ſame <hi>Month</hi> there is a Conjunction of <hi>Saturn, Sol</hi> and <hi>Mercury</hi> in <hi>Piſces: Serious</hi> and Subtile conſultations are thereby ſignified about matters of no mean Importance: it alſo denotes Storms and Shiq wracks, Cold and dark Air, much Snow or Rain.</p>
+               <p>About the middle of <hi>June 1701</hi> all the Seven Planets will be in Watery Signr: <hi>Saturn, Jupiter</hi> and the <hi>Moon,</hi> in <hi>Piſces: Mars, Sol, Venus</hi> and <hi>Mercury</hi> in <hi>Cancer:</hi> Sure ſome mighty ſhow is now made, and much buſineſs don upon the great Waters: great Fleet at Sea, both men of War
+<pb n="15" facs="tcp:154020:8"/>
+and Merchant-men; great counſels and Conſults in Watery places and about Watery matter; many ſhowers, ſwelling Seas and Ship-wracks.</p>
+               <p>
+                  <hi>July</hi> the 24th <hi>1701,</hi> there is a conſiderable Eclipſe again of the <hi>Sun</hi> Vi<g ref="char:EOLhyphen"/>ſible to moſt parts of <hi>Europe:</hi> It falls in the Second decanate of the Regal, fiery, and Fixed Sign <hi>Leo.</hi>
+               </p>
+               <p>It creates much trouble in the Courts of Princes and moleſts Grandees with mighty mutation fixed and fatal evils: the luminaries being then near the Body of <hi>Mars,</hi> Barrenneſs of the Earth may be feared and ſo many great Fevers and Epidemical diſceaſes: <hi>Rome</hi> and other places in <hi>Italy</hi> will be much ſublect to fire and Faction, fie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce Thunder and Lighting in many places.</p>
+               <p>
+                  <hi>Octtober</hi> the 2d <hi>1701,</hi> there is another oppoſion of the two infortunes from <hi>Virgo</hi> and <hi>Piſes,</hi> which creaters much diſcenſion between People of different Religions, intreſts and cuſtoms; or if you would have it more plain, it moves the old leaven of ſploun and Anger between <hi>Turk</hi> and <hi>Chriſtian, Papiſt</hi> and <hi>Proteſtant;</hi> ſuch as are eſtabliſhed by the Authority of nations, and thoſe that conferm not to their modes of Governmene and Worſhip; it alſo Peſters Governmedts with Plotters, the Roads with Padders, and the Sea with Pi<g ref="char:EOLhyphen"/>rates; Cold and Bluſtring Weather.</p>
+            </div>
+            <div type="conclusion">
+               <head>And now a litrle Application, and ſo we'll Conclude.</head>
+               <p>It is ſo, that Eclipſes when Great have ſo great Influence and effects; then let all People Nations and Languages unto to whom theſe three Great Eclipſ<g ref="char:EOLhyphen"/>es are Viſible, look about them: but more particularly, ſuch places whom they affect by the Signs of the Heavens they fall in, by the Eclipſe's Circle of Poſi<g ref="char:EOLhyphen"/>tions, and by the Circles of Poſition of the infortunes.</p>
+               <p>
+                  <hi>Turky,</hi> all three Eclipſes of the <hi>Moon</hi> are in <hi>Virgo:</hi> great ore the Trou<g ref="char:EOLhyphen"/>bles and moleſtraoions thou muſt ſhare in; many will be the Tumults and Com<g ref="char:EOLhyphen"/>motions in thy territories or Confines.</p>
+               <p>
+                  <hi>France,</hi> thy Great City <hi>Paris</hi> is much conce<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned, and ſome other places within thy Limits thou art ſtell Vexing thy Poor Proteſtant ſubjects, and Hea<g ref="char:EOLhyphen"/>ven is preparing a vexation for thee, and thoſe that puts thee upon ſuch Mea<g ref="char:EOLhyphen"/>ſures.</p>
+               <p>
+                  <hi>Italy,</hi> much Trouble houers over thy Head; ſume of thy Princes cant agree with each other, thy Pontifical ſee will be Troubling, and muſt look to be Troubled.</p>
+               <p>
+                  <hi>Savoy,</hi> thy ſeverity to the Poor <hi>Mondovites</hi> will be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etali<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed e'er long with intreſt.</p>
+               <p>
+                  <hi>Spain,</hi> ſome Clandeſtine Overtures attend thee, and much in a little time will accrew, thou haſt much more weighty matters to diſpute then the diſturb<g ref="char:EOLhyphen"/>ing of the <hi>Scots</hi> at <hi>Darien</hi> who will not eaſily be Bang'd from their Poſt if their Friends fail them not of timely ſupplys, and they agree among themſelves</p>
+               <p>
+                  <hi>Portugal,</hi> thou haſt been a great while fiuiet and modefately thriving: But if theſe to Lunar Eclipſes in oppoſition to thy Palladium and the Tranſite of <hi>Saturn</hi> thro' it, Produce thee no Trouble and Toyl, it will be well: but I doubt the Contrary.</p>
+               <p>
+                  <pb n="16" facs="tcp:154020:9"/>
+                  <hi>Germany,</hi> many places within thy confines afe concerned, matters of much moment fall on the Fronteers of <hi>Auſtra,</hi> and Subburbs of <hi>Vienna.</hi>
+               </p>
+               <p>
+                  <hi>Poland</hi> and <hi>Muſcovy</hi> look well to the <hi>Tartar</hi> and let your <hi>Chriſtian</hi> Neighbours alone, ſo they begin not with ye: But take the beſt care you can to prevent inteſtine <hi>Diſcord,</hi> that no detrement come from thence: nor be not to forward to fall out with erch other, for that will be good for neither.</p>
+               <p>
+                  <hi>Sweedland</hi> and <hi>Denmark,</hi> you have Enjoy'd Peace many Years while your Neighbours have invvlved don't be ſo eager for Trouble as to (Rather then Fail) deſign the diſturbance of each other, look well to your Confines, and live Ffindly together; but if you cannot, or will not, I can't help it.</p>
+               <p>
+                  <hi>Holland,</hi> thy great Trade and induſtry is envied, Clandeſtine deſigns are forming againſt thee, look well to inſurrecteons, and inundations.</p>
+               <p>
+                  <hi>Hybernia</hi> Both the Infortunes in the <hi>Sun</hi>'s Eclipſe, ſquares thy Aſcend<g ref="char:EOLhyphen"/>ant, which imports thee ſome Trouble, and bids thee take what care thou canſt to prevent it; ſeditious Spirits will ſtrive to diſturbe thee; the Rap<g ref="char:EOLhyphen"/>parees will be buſy, both open and clandeſtine Projects will be acted about thee, and in thee.</p>
+               <p>
+                  <hi>Brittannia,</hi> thou art the land of my Nativity, <hi>I</hi> dare not Item thee, but <hi>I</hi> hope I may Pray for thee, and for thy Mighty <hi>Monarch</hi> King WILLIAM God ſend him a long Life, and a Proſperions Reign over thee, and bleſs thee from Tumults, Gires, Fevers, and Furious Commotions.</p>
+               <p>Thus have I fathfully and truly (according to Art) related the ſignification of theſe three Viſible Eclipſes that are great and remarkable in themſelves, and falls out under as great and remarkoble Poſitions of the Heavens; and therefore will have as great and remirkable Effects in the World.</p>
+               <p>I could (but for brevity's ſake) have courted my Authours; however, <hi>I</hi> have written nothing without Art, nor without the Authority of the beſt Artiſts; nor do I intend hereby to amaze the World with thoſe Coeleſtial Perſages; but to let them ſee the dangers impending, that all poſſible care may be taken to prevent them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154020:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
